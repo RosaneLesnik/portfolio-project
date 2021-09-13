@@ -2,3 +2,36 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: normal;
 }
+
+p {
+  font-size: 12px;
+  text-align: justify;
+  padding: 10px 350px;
+}
+
+h1 {
+  font-size: 72px;
+  padding: 10px;
+}
+
+h2 {
+  font-size: 24px;
+  padding: 20px;
+}
+
+.hero {
+  text-align: center;
+}
+
+.startedButton {
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 15px 20px;
+  border-radius: 70px;
+  border: none;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  color: #272142;
+}

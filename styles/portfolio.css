@@ -36,3 +36,13 @@ h2 {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
   color: #272142;
 }
+
+@media (max-width: 900px) {
+  .cascaisSize {
+    font-size: 50px;
+  }
+
+  .historySize {
+    font-size: 15px;
+  }
+}

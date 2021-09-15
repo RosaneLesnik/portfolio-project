@@ -7,3 +7,9 @@ h1 {
   font-size: 72px;
   text-align: center;
 }
+
+@media (max-width: 900px) {
+  .paintingsSize {
+    font-size: 40px;
+  }
+}
